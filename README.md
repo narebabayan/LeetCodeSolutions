@@ -5,7 +5,7 @@
 
 **Fibonacci style**
 
-**.**  [70. Climbing Stairs](https://github.com/narebabayan/LeetCodeSolutions/blob/main/DP%20Patterns/Fibonacci%20style/70.Climbing%20Stairs.cpp) 🧗
+**.** [70. Climbing Stairs](https://github.com/narebabayan/LeetCodeSolutions/blob/main/DP%20Patterns/Fibonacci%20style/70.Climbing%20Stairs.cpp) 🧗
 
 **.** [509. Fibonacci Number](https://github.com/narebabayan/LeetCodeSolutions/blob/9b084b8b0907da32a1a91c0ef9ab559a971efc80/DP%20Patterns/Fibonacci%20style/509.%20Fibonacci%20Number.cpp) 🐛
 
